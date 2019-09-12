@@ -1,0 +1,17 @@
+{
+  "name": "awfatechfingerprintfp08",
+  "version": "1.0.0",
+  "description": "finger print comunicate device fp08",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "device",
+    "fp08",
+    "thumbprint",
+    "device"
+  ],
+  "author": "awfatech",
+  "license": "ISC"
+}
